@@ -1,2 +1,15 @@
-@import url('./Inter_Regular/Inter_Regular.css');
-@import url('./Inter_SemiBold/Inter_SemiBold.css');
+@font-face {
+  src: 
+    url('./Inter-Regular.woff2') format('woff2'),
+    url('./Inter-Regular.woff') format('woff');
+  font-family: 'Inter Regular';
+  font-weight: normal;
+}
+
+@font-face {
+  src: 
+    url('./Inter-SemiBold.woff2') format('woff2'),
+    url('./Inter-SemiBold.woff') format('woff');
+  font-family: 'Inter SemiBold';
+  font-weight: 700;
+}
