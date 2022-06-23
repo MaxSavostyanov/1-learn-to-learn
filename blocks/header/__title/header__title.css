@@ -2,7 +2,8 @@
   align-self: center;
   margin: 0;
   margin-left: 64px;
-  width: 730px;
+  width: 100%;
+  max-width: 730px;
   line-height: 96px;
   font-size: 102px;
   font-weight: 700;
