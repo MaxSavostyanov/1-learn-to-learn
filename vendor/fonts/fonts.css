@@ -2,7 +2,7 @@
   src: 
     url('./Inter-Regular.woff2') format('woff2'),
     url('./Inter-Regular.woff') format('woff');
-  font-family: 'Inter Regular';
+  font-family: 'Inter';
   font-weight: normal;
 }
 
@@ -10,6 +10,6 @@
   src: 
     url('./Inter-SemiBold.woff2') format('woff2'),
     url('./Inter-SemiBold.woff') format('woff');
-  font-family: 'Inter SemiBold';
+  font-family: 'Inter';
   font-weight: 700;
 }
